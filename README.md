@@ -11,8 +11,11 @@ The user interface is designed in a way that is creative and is simple to use, t
 
 HOW THE APP WORKS:
 The app works very easily all you need to do is:
+
 *You have to input the current time of the day 
+
 *Press the recommend button  
+
 *The app will then automatically recommend a meal for that specific time of day the user has entered
 
 Then you will dismiss the app once you have got the recommendation for the meal of the given time of day.
